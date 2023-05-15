@@ -1,0 +1,17 @@
+[
+  {
+    "acc_no": 1010,
+    "acc_value": 27.3,
+    "type1": "test1"
+  },
+  {
+    "acc_no": 1010,
+    "acc_value": 23.3,
+    "type1": "test1"
+  },
+  {
+    "acc_no": 1011,
+    "acc_value": 27.3,
+    "type1": "test2"
+  }
+]
